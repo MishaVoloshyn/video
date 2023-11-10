@@ -1,0 +1,97 @@
+.color1{
+    background-color: rgb(0, 139, 139);
+    height: 130px;
+    color: white;
+}
+.color2{
+    background-color: rgb(0, 158, 158);
+}
+.color3{
+    background-color: rgb(220, 220, 220);
+    border-radius: 5%;
+    height: 580px;
+}
+.color4{
+    background-color: rgb(245, 245, 245);
+    border-radius: 5%;
+}
+.color5{
+    background-color: rgb(240, 240, 240);
+    border-radius: 5%;
+    font-weight: 500;
+}
+.color6{
+   color: white;
+}
+.centered{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    
+}
+.centered2{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-size: 32px;
+  
+}
+.centered3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.banerr{
+    height: 100px;
+    font-weight: 600;
+    font-size: 22px;
+    color: white;
+}
+
+.txt{
+    font-size: 70px;
+}
+.txt1{
+    font-size: 32px;
+    opacity: 0.6;  
+}
+.txt2{
+    font-size: 24px;
+    opacity: 0.5;
+}
+.txt3{
+    font-size: 16px;
+    color: white;
+    opacity: 0.5;   
+    line-height: 27px;
+}
+.txt4{
+    font-size: 18px;
+    color: white;
+    font-weight: 600;     
+    opacity: 1;   
+}
+.txt5{
+    font-size: 16px;
+    opacity: 0.6;  
+}
+.txt6{
+    font-size: 24px;
+    font-weight: 600;
+}
+.txt7{
+    font-size: 18px;
+    font-weight: 600;
+}
+.pl{
+    padding-left: 35px;
+}
+.img1{
+    height: 84px;
+    width: 84px;
+    border-radius: 50%;
+}
+.brr{
+    border-radius: 25%;
+}
